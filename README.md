@@ -10,7 +10,9 @@ To analyze product categories contributing the most to revenue.
 To understand customer demographics and regional preferences.
 Dataset Description
 The dataset contains anonymized customer information, including:
+
 ![image](https://github.com/user-attachments/assets/00f9a54c-7f11-497b-9506-868cba73cc5b)
+
 
 
 # Customer ID: Unique identifier for each customer.
